@@ -1,7 +1,6 @@
 # CMPINF-0010-Final-Project
 
-Team Team
-
+# Team Team
 
 Siyena Gezahegn : email
 
@@ -11,7 +10,7 @@ Cameron Mickey : cam597@pitt.edu
 
 
 
-Datasets:
+# Datasets
 
 
 
